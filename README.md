@@ -2,7 +2,7 @@
 
 This is a simple yet sleek navigation bar that I created using HTML & CSS.
 
-Live demo of the Navigation Bar: https://johnhaab.github.io/navbar/
+DEMO: https://johnhaab.github.io/navbar/
 
 ## Features
 
